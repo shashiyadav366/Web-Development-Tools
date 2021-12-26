@@ -6,12 +6,11 @@ Tools are added frequently! ⚡
 
 Enjoy!
  
+---
 
 ## Table of Contents
+| ----- |
 
-
-
----
   - [CSS-Generators](#css-generators)
   - [VS-Code-extensions](#vs-code-extensions)
   - [Frontend challenge](#frontend-challenge)
