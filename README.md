@@ -9,7 +9,6 @@ Enjoy!
 ---
 
 ## Table of Contents
-| ----- |
 
   - [CSS-Generators](#css-generators)
   - [VS-Code-extensions](#vs-code-extensions)
